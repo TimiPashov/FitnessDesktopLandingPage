@@ -1,0 +1,8 @@
+.main-nav {
+    padding: 1em 2em;
+    gap: 4em;
+}
+
+.main-nav li:hover {
+    text-decoration: underline;
+}

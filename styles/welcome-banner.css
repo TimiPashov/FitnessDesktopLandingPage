@@ -1,0 +1,37 @@
+.welcome-banner {
+    padding: 2em 2em;
+    gap: 1em;
+    background-color: white;
+}
+
+.underline {
+    display: block;
+    height: 2px;
+    width: 5ch;
+    background-color: red;
+    margin: 0 auto;
+    margin-top: 1em;
+}
+
+.welcome-banner img {
+    width: 35%;
+    padding: 2em;
+    margin: 0 auto;
+}
+
+.welcome-banner .card {
+    flex: 1 0 30%;
+}
+.welcome-banner h3 {
+    padding: 1em;
+}
+
+.welcome-banner .card-info {
+    text-align: center;
+    padding: 1em;
+}
+
+.welcome-banner .card-info h3 {
+    color: #D01919;
+}
+

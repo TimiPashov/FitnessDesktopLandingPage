@@ -1,0 +1,26 @@
+.main-header {
+    max-width: 30%;
+    margin: 0 auto;
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+.main-header h2 {
+    font-size: 150%;
+    letter-spacing: 0.6em;
+    padding: 1em;
+}
+
+.main-header p {
+    padding: 1em;
+}
+
+.main-header a {
+    background-color: #D01919;
+    display: block;
+    padding: 0.7em;
+    margin: 1em;
+    width: 50%;
+    align-self: center;
+    border-radius: 0.5em;
+}

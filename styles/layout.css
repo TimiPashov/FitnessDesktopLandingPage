@@ -1,0 +1,75 @@
+body {
+    /* padding: 2em; */
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1200px;
+    min-width: 620px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.top-bar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.social {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.social li {
+    margin: 0 0.5em;
+}
+
+.hero-banner {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main-nav {
+    display: flex;
+    flex-direction: row-reverse;
+    flex: 1 0 100%;
+}
+
+.main-header {
+    display: flex;
+    flex-direction: column;
+    flex: 1 0 100%;
+    text-align: center;
+}
+
+
+.welcome-banner,
+.coaches-banner {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.welcome-banner h3,
+.coaches-banner h3 {
+    flex: 1 0 100%;
+    text-align: center;
+}
+
+.site-footer {
+    text-align: center;
+}

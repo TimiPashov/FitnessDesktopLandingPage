@@ -1,0 +1,12 @@
+.top-bar {
+    background-color: #D01919;
+    padding: 1em 2em;  
+}
+
+.top-bar * {
+    color: white;
+}
+
+.top-bar ul span {
+    display: none;
+}

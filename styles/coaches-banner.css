@@ -1,0 +1,43 @@
+.coaches-banner {
+    padding: 2em 5em;
+    gap: 1em;
+    background-color: #EFEFEF;
+    justify-content: space-between;
+    padding-bottom: 6em;
+}
+
+
+
+
+.coaches-banner img {
+    width: 100%;
+    margin: 0 auto;
+    border-radius: 0.5em;
+}
+
+.coaches-banner .card {
+    max-width: 20%;
+    border-radius: 0.5em;
+    overflow: hidden;
+}
+
+
+.coaches-banner h3 {
+    padding: 1em;
+}
+
+
+.coaches-banner .card-info {
+    text-align: center;
+}
+
+.coach-name {
+    color: black;
+    padding-bottom: 0;
+}
+
+.coach-type {
+    color: #D01919;
+    font-weight: 600;
+    padding-bottom: 1em;
+}
